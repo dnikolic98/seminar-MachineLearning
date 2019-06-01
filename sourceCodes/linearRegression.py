@@ -1,7 +1,6 @@
 from statistics import mean
 import numpy as np
 
-
 class LinearRegression:
 
     def fit(self, xs, ys):
